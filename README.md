@@ -1,1 +1,1 @@
-# Random-Color-Generated
+# Random-Color-Generated-JavaScript
